@@ -1,2 +1,3 @@
 Hello world testing jenkins webhook
-once again
+once again 
+Removed local.properties file
